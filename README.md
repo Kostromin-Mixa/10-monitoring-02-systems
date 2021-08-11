@@ -15,4 +15,6 @@
  - Zabbix: push+pull
  - VictoriaMetrics: push+pull
  - Nagios: push+pull
-3. 
+3. [Команды CURL с компьютера](https://github.com/Kostromin-Mixa/10-monitoring-02-systems/blob/main/3%20задание.jpg) / [Веб-интерфейс ПО chronograf](https://github.com/Kostromin-Mixa/10-monitoring-02-systems/blob/main/3%20задание(2).jpg)
+4. [Метрики утилизации места на диске](https://github.com/Kostromin-Mixa/10-monitoring-02-systems/blob/main/4%20задание.jpg)
+5. [Веб-интерфейс базы telegraf.autogen](https://github.com/Kostromin-Mixa/10-monitoring-02-systems/blob/main/5%20задание.jpg)
